@@ -85,4 +85,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ---
 
-Created with ❤️ by **[Adam Nightingale]([https://github.com/JJacKTH/reactive-avatar-voice/releases](https://www.facebook.com/adam.nightingale.2024/))**
+Created with ❤️ by [Adam Nightingale]([https://github.com/JJacKTH/reactive-avatar-voice/releases](https://www.facebook.com/adam.nightingale.2024/))
