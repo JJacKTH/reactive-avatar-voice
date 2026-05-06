@@ -23,8 +23,12 @@
 ---
 
 ## 📸 Screenshots
-
-*(Add your screenshots here later)*
+<p align="center">
+<em>หน้าตาโปรแกรมและตัวอย่างการใช้งาน</em>
+<img width="428" height="448" alt="Social Preview" src="https://github.com/user-attachments/assets/15006680-9002-4202-8e7b-19c464a827a5" />
+<br>
+<img width="1918" height="1030" alt="Social Preview" src="https://github.com/user-attachments/assets/a630fe6b-292d-4230-9c79-0a4a957a2b93" />
+</p>
 
 ---
 
