@@ -17,16 +17,25 @@
         "arch": [
           "x64"
         ]
+      },
+      {
+        "target": "portable",
+        "arch": [
+          "x64"
+        ]
       }
     ],
-    "icon": "assets/icon.png",
-    "artifactName": "ReactiveAvatarVoice.${ext}"
+    "icon": "assets/icon.png"
   },
   "nsis": {
     "oneClick": false,
     "perMachine": false,
     "allowToChangeInstallationDirectory": true,
     "createDesktopShortcut": true,
-    "createStartMenuShortcut": true
+    "createStartMenuShortcut": true,
+    "artifactName": "ReactiveAvatarVoice-Setup.${ext}"
+  },
+  "portable": {
+    "artifactName": "ReactiveAvatarVoice-Portable.${ext}"
   }
 }

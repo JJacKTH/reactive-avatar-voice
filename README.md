@@ -6,6 +6,11 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 
+## 📥 Download
+
+[![Download Installer](https://img.shields.io/badge/Download-Installer-blue?style=for-the-badge&logo=windows)](https://github.com/JJacKTH/reactive-avatar-voice/releases/latest/download/ReactiveAvatarVoice-Setup.exe)
+[![Download Portable](https://img.shields.io/badge/Download-Portable-orange?style=for-the-badge&logo=windows)](https://github.com/JJacKTH/reactive-avatar-voice/releases/latest/download/ReactiveAvatarVoice-Portable.exe)
+
 ---
 
 ## ✨ Features
