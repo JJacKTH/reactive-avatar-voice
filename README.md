@@ -35,7 +35,7 @@
 ## 🛠️ Installation & Setup
 
 ### For Users
-1. Download the latest `ReactiveAvatarVoice.exe` from the [Releases](https://github.com/yourusername/reactive-avatar-voice/releases) page.
+1. Download the latest `ReactiveAvatarVoice.exe` from the [Releases](https://github.com/JJacKTH/reactive-avatar-voice/releases) page.
 2. Install and launch the application.
 3. Select your microphone and upload your Idle, Blink, and Talk images.
 4. Click **"Open Overlay"** to launch the avatar window.
@@ -85,4 +85,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ---
 
-Created with ❤️ by **Reactive Avatar Studio**
+Created with ❤️ by **[Adam Nightingale]([https://github.com/JJacKTH/reactive-avatar-voice/releases](https://www.facebook.com/adam.nightingale.2024/))**
